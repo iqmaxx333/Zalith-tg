@@ -8,3 +8,5 @@ local.properties
 /ZalithLauncher/.cxx/
 /ZalithLauncher/src/main/assets/components/lwjgl3/
 /ZalithLauncher/release/
+.jks
+.keystore
